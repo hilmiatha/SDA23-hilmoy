@@ -4,7 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Berkuliah/Berkuliah.iml" filepath="$PROJECT_DIR$/Berkuliah/Berkuliah.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab01/Lab01.iml" filepath="$PROJECT_DIR$/Lab01/Lab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab02/Lab02.iml" filepath="$PROJECT_DIR$/Lab02/Lab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab03/Lab03.iml" filepath="$PROJECT_DIR$/Lab03/Lab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab04/Lab04.iml" filepath="$PROJECT_DIR$/Lab04/Lab04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05/Lab05.iml" filepath="$PROJECT_DIR$/Lab05/Lab05.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDA23.iml" filepath="$PROJECT_DIR$/SDA23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP01/TP01.iml" filepath="$PROJECT_DIR$/TP01/TP01.iml" />
       <module fileurl="file://$PROJECT_DIR$/tes/tes.iml" filepath="$PROJECT_DIR$/tes/tes.iml" />
     </modules>
   </component>

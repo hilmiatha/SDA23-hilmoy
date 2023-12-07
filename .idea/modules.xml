@@ -8,8 +8,12 @@
       <module fileurl="file://$PROJECT_DIR$/Lab03/Lab03.iml" filepath="$PROJECT_DIR$/Lab03/Lab03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab04/Lab04.iml" filepath="$PROJECT_DIR$/Lab04/Lab04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab05/Lab05.iml" filepath="$PROJECT_DIR$/Lab05/Lab05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab07/Lab07.iml" filepath="$PROJECT_DIR$/Lab07/Lab07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab08/Lab08.iml" filepath="$PROJECT_DIR$/Lab08/Lab08.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDA23.iml" filepath="$PROJECT_DIR$/SDA23.iml" />
       <module fileurl="file://$PROJECT_DIR$/TP01/TP01.iml" filepath="$PROJECT_DIR$/TP01/TP01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP02/TP02.iml" filepath="$PROJECT_DIR$/TP02/TP02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP03/TP03.iml" filepath="$PROJECT_DIR$/TP03/TP03.iml" />
       <module fileurl="file://$PROJECT_DIR$/tes/tes.iml" filepath="$PROJECT_DIR$/tes/tes.iml" />
     </modules>
   </component>
